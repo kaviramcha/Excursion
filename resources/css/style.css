@@ -21,5 +21,11 @@ body{
 }
 .subheader {
     color: grey;
-       font-size:21px;
+    font-size:21px;
+}
+.footer{
+    color: grey;
+    font: size 21px;
+    text-align: right;
+
 }
